@@ -17,6 +17,6 @@ The repository consists of the following files/folders:
   
   - stl-tools: Contains all the functions required to work with .stl files for matlab. (Note: ensure to set path for matlab to all subfolders when running the scripts.)
 
-
+NOTE: The 3D scans provided(.stl files) are the scans of the author.
 
 
