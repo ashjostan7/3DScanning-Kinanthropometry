@@ -1,6 +1,8 @@
 # 3DScanning-Kinanthropometry
 Extracting calf and waist girth from 3 dimensional reconstructed human scans
 
+![alt text](https://github.com/ashjostan7/3DScanning-Kinanthropometry/blob/master/anthropometric_measurements.png)
+
 
 The repository consists of the following files/folders:
   - driverScript.m: Only script needed to be modified to run the code for current application. Give necessary inputs inside
